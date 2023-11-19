@@ -2,8 +2,8 @@
 
 ## An agent based simulation showing the effects of learning in the Peter principle simulation
 
-This project can be considered a continuation of https://github.com/bazotimatheus/Peter-principle-without-learning.
 This is a reproduction of the model developed at https://www.sciencedirect.com/science/article/abs/pii/S0378437121002958.
+This project can be considered a continuation of https://github.com/bazotimatheus/Peter-principle-without-learning.
 More information on the mathematical formalities and dynamics of the model can be showned at the work mentioned above.
 
 Here we show the effects of learning at the efficiency of the hierarchycal structure.
